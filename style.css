@@ -1,0 +1,14 @@
+.form{
+    background-color: whitesmoke;
+    margin-top: 100px;
+    border: 15px solid darkgreen;
+    border-radius: 20px;
+}
+body{
+    background-image:url('img1.jpg');
+}
+*{
+    text-align: center;
+    font-family: Verdana;
+    color: darkgreen;
+}
